@@ -23,4 +23,4 @@ Desc
 
 ## Visualisering
 För att ge en bild av hur samlingen skulle kunna presenteras gjorde vi en hastigt hopskriven skiss baserad poå en cirkel.
-
+!(SakNet)[https://github.com/ostwilkens/SakNet/raw/master/SakNet.png]
