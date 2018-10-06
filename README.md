@@ -9,3 +9,8 @@ För vem?
  - Nyfikna som vill upptäcka samlingar på ett nytt sätt.
 
 
+
+Användningsområden
+ - Kan upptäcka föremål som har med andra föremål att göra på ett intuitivt vis.
+ - Kan skapa en övergripande bild av museisamlingen. Hur stor är gaffelsamlingen i relation till konstsamlingen?
+
