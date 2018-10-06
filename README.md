@@ -16,10 +16,10 @@ Idén är kort sagt att presentera samlingen med en interaktiv visuell represent
 Många museisamlingar lider av bristfällig digitisering eller att det inte finns en konsekvent katalogisering. En anledning till detta är att de skrivits in av flera olika människor under lång tid. En klassificering som, åtminstone vid Hälsinglands Museum, använts konsekvent och som täcker i stort sett hela samlingen är den metadata som utgår från ämnesklassifikationssystemet Outline (https://libris.kb.se/bib/7603750). Genom att utgå från denna data kan en bild av en museisamling visualiseras.
 
 ## Maskininlärning
-Desc
+För att få en uppfattning om hur alla objekt hör ihop med varandra används maskinlärning. All tillgänglig metadata matas in i systemet och grupperas med tekniken Clustering. 
 
 ## Clustering
-Desc
+Typen av maskinlärning som används kallas Clustering. Clustering innebär att man ger en relevanspoäng mellan varje objekt och alla kategorier. Denna poäng används sedan för att avgöra det visuella avståndet mellan punkterna, och därmed punkternas position på kartan. 
 
 ## Visualisering
 För att ge en bild av hur samlingen skulle kunna presenteras gjorde vi en hastigt hopskriven skiss baserad på en cirkel.
