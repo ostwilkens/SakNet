@@ -13,12 +13,14 @@ Idén är kort sagt att presentera samlingen med en interaktiv visuell represent
  - Kan skapa en övergripande bild av museisamlingen. Hur stor är gaffelsamlingen i relation till konstsamlingen?
 
 ## Användbar data?
-Många museisamlingar lider av bristfällig digitisering eller att det inte finns en konsekvent katalogisering. Detta på grund av att de skrivits in av flera olika människor under en lång tid. Ett 
+Många museisamlingar lider av bristfällig digitisering eller att det inte finns en konsekvent katalogisering. En anledning till detta är att de skrivits in av flera olika människor under lång tid. En klassificering som, åtminstone vid Hälsinglands Museum, använts konsekvent och som täcker i stort sett hela samlingen är den metadata som utgår från ämnesklassifikationssystemet Outline (https://libris.kb.se/bib/7603750). Genom att utgå från denna data kan en bild av en museisamling visualiseras.
 
+## Maskininlärning
+Desc
 
-Maskininlärning
+## Clustering
+Desc
 
-Clustering
-Relationer till kategorier
+## Visualisering
+För att ge en bild av hur samlingen skulle kunna presenteras gjorde vi en hastigt hopskriven skiss baserad poå en cirkel.
 
-Visualisering
