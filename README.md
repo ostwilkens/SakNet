@@ -22,5 +22,6 @@ Desc
 Desc
 
 ## Visualisering
-För att ge en bild av hur samlingen skulle kunna presenteras gjorde vi en hastigt hopskriven skiss baserad poå en cirkel.
+För att ge en bild av hur samlingen skulle kunna presenteras gjorde vi en hastigt hopskriven skiss baserad på en cirkel.
 ![SakNet](https://github.com/ostwilkens/SakNet/raw/master/SakNet.png)
+Den kategoribaserade bilden ger en idé om hur samlingen ser ut och var olika föremål hamnar beroende på hur de relaterar till varandra. Kyrkliga träskulpturer hamnar nära kyrkliga textilier men textilierna hamnar närmre kategorin "textil, skinn och fibrer" än träskulpturerna. På detta sätt kan en person navigera samlingarna. 
