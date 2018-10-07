@@ -1,3 +1,6 @@
+> SakNet är del av ett grupparbete under Hack for Heritage 2018
+> läs mer om de andra idéerna på http://edvind.github.com/h4h2018
+
 # SakNet
 
 Att få en översikt över en museisamling är sällan en lätt uppgift. Ofta är en museisamling oöverskådlig och svårnavigerad om du inte har specialkunskaper eller erfarenhet av den. Idag presenteras samlingar på webben med hjälp av olika gränssnitt där användaren oftast söker sig fram till objekten. Hur kan vi upptäcka eller visa en museisamling på ett alternativt vis?
